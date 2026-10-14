@@ -1,0 +1,3 @@
+Pour le bake il faut mettre toutes les lights à 1 d'intensité et désactiver la point light cookie de la lampeEnfant en salle 2
+planetarium: 6
+lampeEnfant: 2
